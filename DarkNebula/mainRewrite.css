@@ -3,7 +3,7 @@
 .theme-light {
 	--highlight: rgb(var(--rgb-highlight));
 	--rgb-background: 0, 0, 0;
-	--background: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+	--background: rgb(var(--rgb-background));
 	--rgb-text: 197, 200, 198;
 	--text: rgb(var(--rgb-text));
 	--rgb-close-button: 212, 18, 39;
